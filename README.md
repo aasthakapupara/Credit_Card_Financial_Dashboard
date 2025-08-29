@@ -26,5 +26,3 @@ To develop a **comprehensive credit card weekly dashboard** that provides **real
 - **Data Modeling** – DAX, Power Query for cleaning & transformation  
 
 ---
-
-## 📁 Project Structure  
